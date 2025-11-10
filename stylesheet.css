@@ -1,6 +1,6 @@
 /* Reset y estilos base */
 * {
-    /* box-sizing: border-box; */
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
@@ -561,7 +561,7 @@ footer {
     
     nav a {
         font-size: 1em;
-        padding: 5px 0;
+        /* padding: 5px 0; */
     }
 }
 
@@ -609,7 +609,7 @@ footer {
     
     nav a {
         font-size: 0.85em;
-        padding: 6px 10px;
+        padding: 2px 5px;
     }
     
     .servicios,
